@@ -1,10 +1,11 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+// import HelloWorld from './components/HelloWorld.vue'
+import StartCreate from '@/pages/StartCreate.vue'
 </script>
 
 <template>
-  <HelloWorld /> 
-
+  <!-- <HelloWorld />  -->
+<StartCreate />
 </template>
 
 <style scoped>
